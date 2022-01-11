@@ -1,2 +1,3 @@
 Change 1 in File 1
 Change 2 in File 1
+Changes are made in Master.
